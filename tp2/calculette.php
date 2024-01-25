@@ -9,7 +9,7 @@ echo $x . " % " . $y . " = " . $x % $y . PHP_EOL;
 echo $x . " ** " . $y . " = " . $x ** $y . PHP_EOL;
 
 if($x > $y){
-    echo "lE PLUS GRAND EST : ". $x;
+    echo "Le plus grand est : ". $x;
 }
 else
 {
